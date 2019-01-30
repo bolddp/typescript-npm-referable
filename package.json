@@ -1,0 +1,13 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "Authorization service for Node.js, written in Typescript",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Persson",
+  "license": "MIT",
+  "devDependencies": {}
+}
