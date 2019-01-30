@@ -1,13 +1,10 @@
 {
-  "name": "auth-service",
+  "name": "typescript-npm-referable",
   "version": "1.0.0",
-  "description": "Authorization service for Node.js, written in Typescript",
+  "description": "Demo skeleton for project referable by NPM",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "Daniel Persson",
-  "license": "MIT",
-  "devDependencies": {}
+  "license": "MIT"
 }
